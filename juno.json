@@ -1,7 +1,7 @@
 {
   "type": "cosmos",
   "value": {
-    "key": "default",
+    "key": "ayj",
     "chain-id": "uni-3",
     "rpc-addr": "https://rpc.uni.juno.deuslabs.fi/",
     "account-prefix": "juno",
